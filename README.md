@@ -14,7 +14,7 @@
   </a>
   
   <a href="https://iamgabrieltv.tk/">
-    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
