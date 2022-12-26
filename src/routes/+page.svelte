@@ -1,3 +1,23 @@
+<style>
+ :global(html, body) {
+  height: 100%;
+ }
+
+ :global(html) {
+  display: table;
+  margin: auto;
+ }
+
+ :global(body) {
+  display: table-cell;
+  vertical-align: middle;
+  background-color: #262626;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+ }
+</style>
+
 <h1>Hello Hooman!</h1>
 
 <p>
