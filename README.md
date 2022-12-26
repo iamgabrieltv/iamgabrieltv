@@ -12,6 +12,10 @@
   <a href="https://www.youtube.com/channel/UCbIY1C5ZwX4JMN_uiAg6_Sw">
     <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCbIY1C5ZwX4JMN_uiAg6_Sw?logo=youtube&style=for-the-badge&label=Youtube&color=cc0000&labelColor=FF0000&logoColor=white">
   </a>
+  
+  <a href="https://iamgabrieltv.tk/">
+    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
