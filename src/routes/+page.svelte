@@ -32,3 +32,5 @@
 <a href="https://github.com/iamgabrieltv?tab=repositories">
  <img alt="GitHub Repos" src="https://img.shields.io/static/v1?label=GitHub Repos&message=2&logo=github&style=for-the-badge&color=191919&labelColor=black&logoColor=white">
 </a>
+
+<p>I also contribute to the German Minecraft Server <a href="https://github.com/EarthBuild">Earthbuild</a>.</p>
