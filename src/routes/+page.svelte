@@ -1,5 +1,21 @@
 <script>
 	import '../app.css';
+	import { browser } from '$app/environment';
+
+	function getRandomInt(max) {
+		return Math.floor(Math.random() * max);
+	}
+
+	var aURL = 'https://www.youtube.com/watch?v=KmtzQCSh6xk';
+
+	if (browser) {
+		if (getRandomInt(2) == 0) {
+			console.log('Match!');
+		} else {
+			console.log('No Match!');
+			aURL = 'https://www.youtube.com/watch?v=ZZ5LpwO-An4';
+		}
+	}
 </script>
 
 <h1>Hello Hooman!</h1>
@@ -32,7 +48,7 @@
 
 <div class="footer">
 	<p>Made with ❤ in Germany 🇩🇪</p>
-	<a href="https://www.youtube.com/watch?v=KmtzQCSh6xk">
+	<a href={aURL} id="DONT">
 		<p>!!DO NOT CLICK!!</p>
 	</a>
 </div>
