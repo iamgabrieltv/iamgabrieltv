@@ -31,3 +31,10 @@ body {
 	position: relative;
 	left: 2%;
 }
+
+.clickable {
+	color: blue;
+	text-decoration: underline;
+	font-weight: bold;
+	cursor: pointer;
+}

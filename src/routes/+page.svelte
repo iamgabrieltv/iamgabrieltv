@@ -2,19 +2,45 @@
 	import '../app.css';
 	import { browser } from '$app/environment';
 
-	function getRandomInt(max) {
-		return Math.floor(Math.random() * max);
+	function RandomRedirect() {
+		var random = Math.floor(Math.random() * 10);
+
+		switch (random) {
+			case 0:
+				window.open('https://www.youtube.com/watch?v=ZZ5LpwO-An4');
+				break;
+			case 1:
+				window.open('https://www.youtube.com/watch?v=KmtzQCSh6xk');
+				break;
+			case 2:
+				window.open('https://www.youtube.com/watch?v=fC7oUOUEEi4');
+				break;
+			case 3:
+				window.open('https://www.youtube.com/watch?v=CzwVoc1MsGo');
+				break;
+			case 4:
+				window.open('https://www.youtube.com/watch?v=D-UmfqFjpl0');
+				break;
+			case 5:
+				window.open('https://www.youtube.com/watch?v=b8HO6hba9ZE');
+				break;
+			case 6:
+				window.open('https://www.youtube.com/watch?v=d1YBv2mWll0');
+				break;
+			case 7:
+				window.open('https://www.youtube.com/watch?v=7zpxgyG7eGk');
+				break;
+			case 8:
+				window.open('https://www.youtube.com/watch?v=tMV2oE0BjUo');
+				break;
+			case 9:
+				window.open('https://www.youtube.com/watch?v=FCai_OTxpv4');
+				break;
+		}
 	}
 
-	var aURL = 'https://www.youtube.com/watch?v=KmtzQCSh6xk';
-
 	if (browser) {
-		if (getRandomInt(2) == 0) {
-			console.log('Match!');
-		} else {
-			console.log('No Match!');
-			aURL = 'https://www.youtube.com/watch?v=ZZ5LpwO-An4';
-		}
+		console.log('Client-Side connection established');
 	}
 </script>
 
@@ -48,7 +74,7 @@
 
 <div class="footer">
 	<p>Made with ❤ in Germany 🇩🇪</p>
-	<a href={aURL} id="DONT">
+	<a on:click={RandomRedirect} id="DONT" class="clickable">
 		<p>!!DO NOT CLICK!!</p>
 	</a>
 </div>
