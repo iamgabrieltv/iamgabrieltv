@@ -30,3 +30,7 @@
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgabrieltv&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&langs_count=3">
     <img alt="Gabriel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iamgabrieltv&line_height=27&show_icons=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true">
 </p>
+
+<p align="center">
+  <img alt="Pfp Pet" src="https://github.com/iamgabrieltv/iamgabrieltv/assets/41999358/7af00a62-0ac1-4668-97b2-4d3aff229ba4">
+</p>
