@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgabrieltv&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&langs_count=3">
-    <img alt="Gabriel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iamgabrieltv&line_height=27&show_icons=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgabrieltv&bg_color=11111a&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&langs_count=3">
+    <img alt="Gabriel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iamgabrieltv&line_height=27&show_icons=true&count_private=true&bg_color=11111a&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true">
 </p>
 
 <p align="center">
