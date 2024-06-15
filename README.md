@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img alt="Skills" src="https://skillicons.dev/icons?i=js,ts,svelte,tailwind," />
+  <img alt="Skills" src="https://skillicons.dev/icons?i=js,ts,svelte,tailwind,kotlin," />
 </p>
 
 <p align="center">
