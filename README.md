@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="IamGabrielTV" src="https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Hello%20fellow%20Hoomans%21%20I%20am%20Gabriel%21&title=IamGabrielTV">
+  <img alt="IamGabrielTV" src="https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=Hello%20World%21%20I%20am%20Gabriel%21&title=IamGabrielTV">
   
   <a href="https://discord.com/users/468100897860485120">
     <img alt="Discord" src="https://dcbadge.vercel.app/api/shield/468100897860485120?compact=true&theme=blurple">
