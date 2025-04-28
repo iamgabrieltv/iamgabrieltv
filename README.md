@@ -5,21 +5,13 @@
     <img alt="Discord" src="https://dcbadge.limes.pink/api/shield/468100897860485120?compact=true&theme=blurple">
   </a>
   
-  <a href="https://twitch.tv/iamgabrieltv">
-    <img alt="Twitch" src="https://img.shields.io/static/v1?label=Twitch&message=Livestreams&logo=twitch&style=for-the-badge&color=8f47ff&labelColor=a970ff&logoColor=white">
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCbIY1C5ZwX4JMN_uiAg6_Sw">
-    <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCbIY1C5ZwX4JMN_uiAg6_Sw?logo=youtube&style=for-the-badge&label=Youtube&color=cc0000&labelColor=FF0000&logoColor=white">
-  </a>
-  
-  <a href="https://iamgabrieltv.de/">
-    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <a href="https://iamgabriel.dev/">
+    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=cloudflare&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <img alt="Skills" src="https://skillicons.dev/icons?i=js,ts,svelte,tailwind,kotlin," />
+  <img alt="Skills" src="https://skillicons.dev/icons?i=ts,svelte,tailwind,sqlite,cloudflare" />
 </p>
 
 <p align="center">
