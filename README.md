@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img alt="Skills" src="https://skillicons.dev/icons?i=js,ts,svelte,tailwind,sqlite,cloudflare,cs,linux" />
+  <img alt="Skills" src="https://skillicons.dev/icons?i=js,ts,svelte,tailwind,sqlite,cloudflare,cs,java,linux" />
 </p>
 
 <p align="center">
